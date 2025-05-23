@@ -1,2 +1,2 @@
-Enhancing Open-Vocabulary Panoptic Segmentation with Semantic-Guided Q-Tuning
+#Enhancing Open-Vocabulary Panoptic Segmentation with Semantic-Guided Q-Tuning
 
